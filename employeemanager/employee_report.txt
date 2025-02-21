@@ -1,0 +1,45 @@
+Nome: Maria
+Data de Nascimento: 18/10/2000
+Salário: R$2.210,38
+Função: Operador
+
+Nome: Caio
+Data de Nascimento: 2/5/1961
+Salário: R$10.819,75
+Função: Coordenador
+
+Nome: Miguel
+Data de Nascimento: 14/10/1988
+Salário: R$21.031,87
+Função: Diretor
+
+Nome: Alice
+Data de Nascimento: 5/1/1995
+Salário: R$2.458,15
+Função: Recepcionista
+
+Nome: Heitor
+Data de Nascimento: 19/11/1999
+Salário: R$1.740,99
+Função: Operador
+
+Nome: Arthur
+Data de Nascimento: 31/3/1993
+Salário: R$4.479,02
+Função: Contador
+
+Nome: Laura
+Data de Nascimento: 8/7/1994
+Salário: R$3.319,20
+Função: Gerente
+
+Nome: Heloísa
+Data de Nascimento: 24/5/2003
+Salário: R$1.767,54
+Função: Eletricista
+
+Nome: Helena
+Data de Nascimento: 2/9/1996
+Salário: R$3.079,92
+Função: Gerente
+
